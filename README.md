@@ -1,4 +1,5 @@
 # speech_recogniser
+This is a Python project.
 Speech Recogniser is a software which is used to recognise the speech and convert it into text(English).
 
 In this project , an API of assemblyAI is used.
