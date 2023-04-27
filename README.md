@@ -6,3 +6,6 @@ In this project , an API of assemblyAI is used.
 You can run this on your terminal by using this command:
 >python main.py "audio_filname"
 
+eg:- >python main.py abcd.wav
+
+
